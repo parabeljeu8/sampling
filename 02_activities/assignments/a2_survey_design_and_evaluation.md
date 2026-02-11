@@ -9,7 +9,9 @@ The goal of this assignment is to practice developing and evaluating sampling ma
 Select one of the scenarios below and design a survey to meet the need(s) outlined in the prompt.
 
 1.	In two to three sentences, describe the purpose of your survey
+
 2.	Describe your target population, sampling frame, sampling units, and overall sampling strategy.
+
 3.	Write a 5-10 question survey to address your chosen scenario below.
 
 ##### Scenarios
@@ -40,30 +42,43 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#3`
 
 Describe the purpose of your survey:
-```
+The purpose of my survey is to understand if age has an influence on ones music taste and the evolution of their taste during lifetime. The study wants to determine the influence of age on the perception to popular music.
+
 write your answer here...
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
-```
+Target population: 
+We can set the target population to a canadian adult population which would make it a nationwide survey that targets canadians that are 18 to 60+ years old since we want to test the evolution of music taste in a lifetime and accros generation. 
+
+Sampling frame:
+Different methods to make sure to conver national respondants of different group age:
+Using landline telephone for older canadian and cell phone for yonger population
+Ramdon selection from across all provinces and territories
+Stratification by province/region and demographic characteristics
+
+Sampling unit:
+Individuals that are in the age range definde by the survey (see above) and that can self-report on their current music preferences and can also retrospectively remember and share their music taste accross the years, starting at 18.
+
+Sampling strategy:
+The strategy for this survey would be a  stratified random sampling. This would allow stratification by group age that range of 5 or 10 years to make sure we represent all generations. That would be executed into regional strata to have a national representation, meaning accross provinces, territories, urban and rural areas. 
 write your answer here...
 ```
-
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. Please select your province/territories of residence?
+2. In which city do you live?
+3. Please identify your gender
+4. Please select your age group
+5. Select the genre(s) of music you currently listen?
+6. What is your current interest in popular music? 
+7. Thinking back of when you were a teenager (13 - 19 years old), what as your interest in popular music?
+8. Thinking back of when you were a teenager, select the genre(s) of music you listened?
+9. What of the following reason listed below will influence the music you are currently listening
+10. Based on their the group age selected at question, please identify your prefered musice at childhood (under 13), teenage years (13 - 19 years old), adulthood (20 - 29, 30 - 39, 40 - 49, 50 - 59, 60 and over), 
 ```
 
 ## Part B - Survey Evaluation:
@@ -73,6 +88,60 @@ Identify and describe survey features:
 ```
 write your answer here
 ```
+1. Sample type: stratefy samples
+Use stratefied sample
+group 1: using telephone number (landline and cellphone) linked to address from census and other sources from Statistics Canada's dwelling frame.
+group 2: selction province/census metropolitan area (CMA) level and in the household information is collected randomly from 1 person in the hoursehold that is 15 years or older
+Respondants are classified are sub-classified as volunteer or not, receiving differnt questions based on that sub-classification
+Volunteers complete the full survey and non-volunteers were randomly divided and some complete full interview, others complete short interview
+2. Sample size
+A field sample of approximatively 50,000 units were used to send 40,000 invitation letters to the electronic questionnaire and a completed of 24,000 questionnaires was expected.
+3. Target population
+Persons aged 15 years and older living in one of Canada's 10 provinces This excludes: 
+Residents of territories
+Full-time residents of institutions (those residing for more than 6 months)
+Households without telephones 
+4. Sampling frame:
+Integrated landline and cellular telephone numbers
+Address Register linkages
+Census of Population data
+Sampling units: Groups of one or several telephone numbers associated with the same address
+Stratification:
+ - By province
+ - By Census Metropolitan Area within provinces
+ 
+5. Survey mode(s) 
+ - Online survey
+ - Assisted Telephone Interviewing
+
+6. Timeline: 
+2018-09-04 to 2018-12-28
+7. Response rate: 
+response rate is 41.9%.
+8. Weights: 
+Person-level weighting factor 
+9. Data processing
+The electronic collection of data allowed to automatically edit at various stages of processing at macro and micro levels. Manual editng was also executed
+
+10. Cleaning, imputation, etc
+Imputation had 9 steps: 
+By personal income and family income
+Electronic questionnaire system performed same validations
+3 steps of imputing the formal volunteering variables in the master file
+Steps 5 and 6 imputied the informal volunteering variables in the master file
+the last steps were to impute variables in the donation file and the solicitation methods in the master file
+
+11. Sources of error
+Non-Sampling Errors: although considered small households without telephones were excluded
+Non-Response Error at the houseshold level and individual level
+There could be response errors if there is a misunderstanding of the questions or a difference in the interpreation of the questions. 
+12. Limitations, known biases, etc
+Exclusion of canadians from territories and that are institutionalized
+Exclusion of canadians with no phone 
+Respondants responses had to remember answers from a long period of time which could have impacted their answer, for instance they could have forgotten some information such as the exact number of volunteering time.
+Biases realated to non-response, with a response rate of 41.9% less than half to the targeting survey respondands answered, it may reflect on certain groups results. None responses can also occur at different stages of the survey, which can impact the results
+13. Link to documentation and any additional sources used
+https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=796234
 
 ## Rubric
 
