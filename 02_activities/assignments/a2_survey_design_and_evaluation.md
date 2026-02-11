@@ -67,7 +67,6 @@ Sampling strategy:
 The strategy for this survey would be a  stratified random sampling. This would allow stratification by group age that range of 5 or 10 years to make sure we represent all generations. That would be executed into regional strata to have a national representation, meaning accross provinces, territories, urban and rural areas. 
 write your answer here...
 ```
-
 Your 5-10 question survey:
 ```
 1. Please select your province/territories of residence?
